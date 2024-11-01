@@ -4,8 +4,8 @@
 
 ## Содержание
 
-- [Задача 1: Модель Бизнес-Плана](https://github.com/IvanVolkogonov/iwan_)
-- [Задача 2: Генератор Паролей](https://github.com/IvanVolkogonov/iwan_/tree/GenPassFile/GenPass)
+- [Модель Бизнес-Плана в формате IDF0](https://github.com/IvanVolkogonov/iwan_)
+- [Программа: Генератор Паролей](https://github.com/IvanVolkogonov/iwan_/tree/GenPassFile/GenPass)
 - [Листинг Кода](https://github.com/IvanVolkogonov/iwan_/blob/ListingCode/Listing_Gen_Pass.txt)
 - [Скриншоты Рабочей Программы](#скриншоты-рабочей-программы)
 
