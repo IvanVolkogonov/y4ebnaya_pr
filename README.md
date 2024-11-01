@@ -7,7 +7,7 @@
 - [Модель Бизнес-Плана в формате IDF0](https://github.com/IvanVolkogonov/iwan_)
 - [Программа: Генератор Паролей](https://github.com/IvanVolkogonov/iwan_/tree/GenPassFile/GenPass)
 - [Листинг Кода](https://github.com/IvanVolkogonov/iwan_/blob/ListingCode/Listing_Gen_Pass.txt)
-- [Скриншоты Рабочей Программы](#скриншоты-рабочей-программы)
+- [Скриншоты Рабочей Программы](https://github.com/IvanVolkogonov/iwan_/blob/WorkProgrammPhoto/Screenshot_635.png)
 
 ## Задача 1: Модель Бизнес-Плана
 
