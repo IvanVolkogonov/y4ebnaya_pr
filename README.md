@@ -4,10 +4,10 @@
 
 ## Содержание
 
-- [Модель Бизнес-Плана в формате IDF0](https://github.com/IvanVolkogonov/iwan_)
-- [Программа: Генератор Паролей](https://github.com/IvanVolkogonov/iwan_/tree/GenPassFile/GenPass)
-- [Листинг Кода](https://github.com/IvanVolkogonov/iwan_/blob/ListingCode/Listing_Gen_Pass.txt)
-- ![Скриншоты Рабочей Программы](https://github.com/IvanVolkogonov/iwan_/blob/WorkProgrammPhoto/Screenshot_635.png)
+- ## Модель Бизнес-Плана Формата IDEF0
+- ## Программа: Генератор Паролей
+- ## Листинг Кода
+- ## Скриншоты Рабочей Программы
 
 ## Задача 1: Модель Бизнес-Плана Формата IDEF0
 
@@ -24,7 +24,7 @@
 
 
 - **Описание проекта**: [Здесь вставьте более подробное описание бизнес-плана]
-- **Ссылка на ветку**: [Ссылка на ветку с бизнес-планом](https://github.com/ваш_пользователь/ваш_репозиторий/tree/имя_ветки)
+- **Ссылка на ветку**: [Ссылка на ветку с бизнес-планом](https://github.com/iwan_/Main/tree/main)
 
 ## Задача 2: Генератор Паролей
 
