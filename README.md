@@ -7,11 +7,15 @@
 - [Модель Бизнес-Плана в формате IDF0](https://github.com/IvanVolkogonov/iwan_)
 - [Программа: Генератор Паролей](https://github.com/IvanVolkogonov/iwan_/tree/GenPassFile/GenPass)
 - [Листинг Кода](https://github.com/IvanVolkogonov/iwan_/blob/ListingCode/Listing_Gen_Pass.txt)
-- [Скриншоты Рабочей Программы](https://github.com/IvanVolkogonov/iwan_/blob/WorkProgrammPhoto/Screenshot_635.png)
+- ![Скриншоты Рабочей Программы](https://github.com/IvanVolkogonov/iwan_/blob/WorkProgrammPhoto/Screenshot_635.png)
 
-## Задача 1: Модель Бизнес-Плана
+## Задача 1: Модель Бизнес-Плана Формата IDEF0
 
-В этой задаче мы разработали модель бизнес-плана, которая описывает [вкратце тему и содержание бизнес-плана]. 
+В данном разделе предоставлены наброски нашего бизнес-плана по разработке программы генератора паролей
+
+
+
+
 
 - **Описание проекта**: [Здесь вставьте более подробное описание бизнес-плана]
 - **Ссылка на ветку**: [Ссылка на ветку с бизнес-планом](https://github.com/ваш_пользователь/ваш_репозиторий/tree/имя_ветки)
@@ -23,16 +27,4 @@
 - **Описание функции**: Программа генерирует пароли длиной от 8 до 16 символов, включая буквы, цифры и специальные символы.
 - **Ссылка на ветку**: [Ссылка на ветку с генератором паролей](https://github.com/ваш_пользователь/ваш_репозиторий/tree/имя_ветки)
 
-## Листинг Кода
 
-Ниже представлена основная часть кода генератора паролей:
-```python
-import random
-import string
-
-def generate_password(length=12):
-    characters = string.ascii_letters + string.digits + string.punctuation
-    password = ''.join(random.choice(characters) for i in range(length))
-    return password
-
-print(generate_password(12))
