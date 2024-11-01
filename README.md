@@ -6,7 +6,7 @@
 
 - [Задача 1: Модель Бизнес-Плана]()
 - [Задача 2: Генератор Паролей](#задача-2-генератор-паролей)
-- [Листинг Кода]([#ListingCode](https://github.com/IvanVolkogonov/iwan_/tree/ListingCode))
+- [Листинг Кода]([#ListingCode](https://github.com/IvanVolkogonov/iwan_/tree/ListingCode)
 - [Скриншоты Рабочей Программы](#скриншоты-рабочей-программы)
 
 ## Задача 1: Модель Бизнес-Плана
