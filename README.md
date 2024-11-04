@@ -17,7 +17,7 @@
 ![Контекстная диаграмма](https://github.com/IvanVolkogonov/iwan_/blob/main/Screenshot_637.png)
 
 ## Декомпозиция
-![Декомпозиция] (https://github.com/IvanVolkogonov/iwan_/blob/main/Screenshot_637.png)
+![Декомпозиция](https://github.com/IvanVolkogonov/iwan_/blob/main/Screenshot_637.png)
 
 
 
