@@ -25,7 +25,7 @@
 
 - **Описание проекта**: 
 Нашей главной целью было создание программы для генерации паролей. Для начала нам необходимо было создать IDEF0, для наглядного показа нашего проекта, как более легкого и доступного способа донесения информации. 
-Нами было создано две диаграммы: [контекстная диаграмма](https://github.com/IvanVolkogonov/y4ebnaya_pr/blob/main/Screenshot_637.png) и [декомпозиция.](https://github.com/IvanVolkogonov/y4ebnaya_pr/blob/main/Screenshot_637.png)
+Нами было создано две диаграммы: [контекстная диаграмма](https://github.com/IvanVolkogonov/y4ebnaya_pr/blob/main/Screenshot_639.png) и [декомпозиция.](https://github.com/IvanVolkogonov/y4ebnaya_pr/blob/main/Screenshot_637.png)
 
 Контекстная диаграмма
 
