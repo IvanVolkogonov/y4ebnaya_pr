@@ -14,7 +14,7 @@
 В данном разделе предоставлены наброски нашего бизнес-плана по разработке программы генератора паролей, выполненые при помощи компьютерных технологий:
 
 ## Контекстная диаграмма
-![Контекстная диаграмма](https://github.com/IvanVolkogonov/iwan_/blob/main/Screenshot_639.png)
+![Контекстная диаграмма](https://github.com/IvanVolkogonov/y4ebnaya_pr/blob/main/Compoziciya.png)
 
 ## Декомпозиция
 ![Декомпозиция](https://github.com/IvanVolkogonov/iwan_/blob/main/Screenshot_637.png)
