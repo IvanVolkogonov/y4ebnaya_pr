@@ -99,6 +99,16 @@
 Для начала у нас есть объявление класса, в котором находятся несколько процедур.
 Первая из них – объявление кнопки, а так же всех наших CheckBox
 
+```go
+Public Class Form1
+
+    Private Sub BtnGenerate_Click(sender As Object, e As EventArgs) Handles BtnGenerate.Click
+        Dim passwordLength As Integer = CInt(NumericUpDown1.Value)
+        Dim useUpperCase As Boolean = CheckBoxUpperCase.Checked
+        Dim useLowerCase As Boolean = CheckBoxLowerCase.Checked
+        Dim useNumbers As Boolean = CheckBoxNumbers.Checked
+        Dim useSpecialChars As Boolean = CheckBoxSpecialChars.Checked
+```
 Сразу после объявления расположена часть кода, отвечающая за предотвращение ошибок, т.е. если пользователь не выберет ни одной вариации конечного пароля, он получит уведомление о том, что необходимо выбрать хотя бы один параметр.
 
 Следующим делом создаём функцию “Сгенерировать пароль” 
