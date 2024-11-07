@@ -111,10 +111,33 @@ Public Class Form1
 ```
 Сразу после объявления расположена часть кода, отвечающая за предотвращение ошибок, т.е. если пользователь не выберет ни одной вариации конечного пароля, он получит уведомление о том, что необходимо выбрать хотя бы один параметр.
 
+```go
+        If Not (useUpperCase Or useLowerCase Or useNumbers Or useSpecialChars) Then
+            MessageBox.Show("Выберите хотя бы один тип символа для генерации пароля.")
+            Return
+        End If
+```
 Следующим делом создаём функцию “Сгенерировать пароль” 
 В данной функции указываем на положение переключателей CheckBox, а так же задаём перечень символов под определённый переключатель 
 
+```go
+    Private Function GeneratePassword(length As Integer, upper As Boolean, lower As Boolean, numbers As Boolean, special As Boolean) As String
+        Dim allowedChars As New StringBuilder()
+
+        If upper Then allowedChars.Append("ABCDEFGHIJKLMNOPQRSTUVWXYZ")
+        If lower Then allowedChars.Append("abcdefghijklmnopqrstuvwxyz")
+        If numbers Then allowedChars.Append("0123456789")
+        If special Then allowedChars.Append("!@#$%^&*()-_=+[]{}|;:,.<>?")
+```
+
 В конечном итоге связываем кнопку “Копировать” с кодом и делаем её активной
+
+```go
+    Private Sub BtnCopy_Click(sender As Object, e As EventArgs) Handles BtnCopy.Click
+        Clipboard.SetText(TextBoxPassword.Text)
+        MessageBox.Show("Пароль скопирован в буфер обмена.")
+    End Sub
+```
 
 Подробнее увидеть сам код можно [Здесь](https://github.com/IvanVolkogonov/y4ebnaya_pr/blob/ListingCode/Listing_Gen_Pass.txt)
 
